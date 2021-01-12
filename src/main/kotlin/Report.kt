@@ -1,0 +1,1 @@
+data class Report(val reportName: String)
